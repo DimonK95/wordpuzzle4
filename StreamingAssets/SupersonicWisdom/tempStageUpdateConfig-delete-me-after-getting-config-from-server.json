@@ -1,0 +1,18 @@
+{
+  "1-3": {
+    "messageTitle": "a new stage is available for {appName}",
+    "messageBody": "Click {buttonTitle} to download and import an updated package of the new stage.",
+    "updateButtonTitle": "download",
+    "integrationGuideUrl": "https://www..../guide.pdf",
+    "integrationGuideButtonTitle": "View our integration guide",
+    "integrationGuideDescription": "While downloading, you can view our integration guide."
+  },
+  "1-2": {
+    "messageTitle": "a new stage is available for {appName}",
+    "messageBody": "Click {buttonTitle} to download and import an updated package of the new stage.",
+    "updateButtonTitle": "download",
+    "integrationGuideUrl": "https://www..../guide.pdf",
+    "integrationGuideButtonTitle": "View our integration guide",
+    "integrationGuideDescription": "While downloading, you can view our integration guide."
+  }
+}

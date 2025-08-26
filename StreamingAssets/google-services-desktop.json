@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "895426043885-gq3cbvm7j6f8o7chvkbai495dh4bk5ra.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljUoqWktpYiXWaNwP7Z2J-Lty05TmOFs"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:895426043885:ios:ea98ed816d0fda670551e4", 
+        "android_client_info": {
+          "package_name": "com.demin.emojipuzzle"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "supersonic-emojipuzzle.appspot.com", 
+    "project_id": "supersonic-emojipuzzle", 
+    "firebase_url": "https://supersonic-emojipuzzle-default-rtdb.firebaseio.com", 
+    "project_number": "895426043885"
+  }
+}
